@@ -1,0 +1,8 @@
+C:\Users\abner\source\repos\Vendas\Vendas\bin\Debug\Vendas.exe.config
+C:\Users\abner\source\repos\Vendas\Vendas\bin\Debug\Vendas.exe
+C:\Users\abner\source\repos\Vendas\Vendas\bin\Debug\Vendas.pdb
+C:\Users\abner\source\repos\Vendas\Vendas\obj\Debug\Vendas.csproj.AssemblyReference.cache
+C:\Users\abner\source\repos\Vendas\Vendas\obj\Debug\Vendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\abner\source\repos\Vendas\Vendas\obj\Debug\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\Vendas\Vendas\obj\Debug\Vendas.exe
+C:\Users\abner\source\repos\Vendas\Vendas\obj\Debug\Vendas.pdb
